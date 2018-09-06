@@ -8,16 +8,11 @@ To switch fast and simple I created a Menu Bar App for this. It does exactly wha
 
 To switch theme, click left, to exit click right on the moon/sun icon.
 
-The source code you can find on my GitHub page, the app it self DarkSome you can download it below.
+You can download app it self DarkSome from my Blog and find futher instructions also there.
 
-[![download](https://blog.kruyt.org/content/images/2018/09/download.png)](/content/images/darksome.zip)
+1. Download [DarkSome](https://blog.kruyt.org/DarkSome)
+2. Unzip and place the app in Applications.
+3. Start the app.
 
-After downloading, unzip it and drag in to your Applications folder and execute it. 
 
-Mojave is a little harder on permissions (which is a good thing), so you need to allow DarkSome access to control the themes.
 
-![permissions](https://blog.kruyt.org/content/images/2018/09/permissions-1.png)
-
-If you want this app automaticly executed after startup then you can place in in the Login Items.
-
-![loginitem](https://blog.kruyt.org/content/images/2018/09/loginitem-1.png)
