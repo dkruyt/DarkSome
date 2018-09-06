@@ -1,4 +1,4 @@
-# DarkSome a DARK theme switcher for macOS
+# DarkSome a Dark theme switcher for macOS
 
 Apple's new macOS 10.14 codename Mojave has a nice dark theme, but to change it you need to go click trough multiple screens to change the theme.
 
